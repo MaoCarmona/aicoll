@@ -17,7 +17,7 @@
          * direccion
          * telefono
          * estado
-    ● Los campos que se pueden actualizar son:
+    * Los campos que se pueden actualizar son:
          * nombre,
          * direccion
          * Telefono
