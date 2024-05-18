@@ -8,6 +8,7 @@
     ```
         php artisan test
     ```
+* Para validar los endpoints he creado una coleccion de postman que esta en la raiz del proyecto llamada "[Aicoll_Test.postman_collection.json](Aicoll_Test.postman_collection.json)"
 * En la implementacion realizada se presenta una solucion al siguiente problema con los requerimientos solicitados
 * Problema
     Se requiere gestionar los datos de la tabla empresas a través de Web Services que permitan agregar nuevas empresas, actualizar los datos de una empresa, consultar las empresas por nit, consultar todas las empresas registradas y borrar las empresas con estado inactivo..
